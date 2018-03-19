@@ -1,0 +1,11 @@
+C:\Users\bandjelic\Desktop\Maturski rad\Kladionica\Kladionica\bin\Debug\Kladionica.exe.config
+C:\Users\bandjelic\Desktop\Maturski rad\Kladionica\Kladionica\bin\Debug\Kladionica.exe
+C:\Users\bandjelic\Desktop\Maturski rad\Kladionica\Kladionica\bin\Debug\Kladionica.pdb
+C:\Users\bandjelic\Desktop\Maturski rad\Kladionica\Kladionica\obj\Debug\Kladionica.csprojResolveAssemblyReference.cache
+C:\Users\bandjelic\Desktop\Maturski rad\Kladionica\Kladionica\obj\Debug\Kladionica.Pocetna.resources
+C:\Users\bandjelic\Desktop\Maturski rad\Kladionica\Kladionica\obj\Debug\Kladionica.Properties.Resources.resources
+C:\Users\bandjelic\Desktop\Maturski rad\Kladionica\Kladionica\obj\Debug\Kladionica.csproj.GenerateResource.Cache
+C:\Users\bandjelic\Desktop\Maturski rad\Kladionica\Kladionica\obj\Debug\Kladionica.exe
+C:\Users\bandjelic\Desktop\Maturski rad\Kladionica\Kladionica\obj\Debug\Kladionica.pdb
+C:\Users\bandjelic\Desktop\Maturski rad\Kladionica\Kladionica\obj\Debug\Kladionica.formRegister.resources
+C:\Users\bandjelic\Desktop\Maturski rad\Kladionica\Kladionica\obj\Debug\Kladionica.Home.resources
